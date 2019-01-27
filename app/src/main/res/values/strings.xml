@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Splashscreen</string>
-    <string name="title_home">Splash Screen</string>
+    <string name="title_splash">Splash Screen</string>
+    <string name="title_home">¡Bienvenido!</string>
 </resources>
