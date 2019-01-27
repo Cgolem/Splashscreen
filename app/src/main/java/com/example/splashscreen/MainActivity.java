@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         };
+
+        //Inicializamos el hilo que se generó
         threadSplash.start();
     }
 }
